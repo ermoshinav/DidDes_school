@@ -1,0 +1,7 @@
+C:\Users\valentina\source\repos\count_words\bin\Debug\count_words.exe.config
+C:\Users\valentina\source\repos\count_words\bin\Debug\count_words.exe
+C:\Users\valentina\source\repos\count_words\bin\Debug\count_words.pdb
+C:\Users\valentina\source\repos\count_words\obj\Debug\count_words.csproj.AssemblyReference.cache
+C:\Users\valentina\source\repos\count_words\obj\Debug\count_words.csproj.CoreCompileInputs.cache
+C:\Users\valentina\source\repos\count_words\obj\Debug\count_words.exe
+C:\Users\valentina\source\repos\count_words\obj\Debug\count_words.pdb
